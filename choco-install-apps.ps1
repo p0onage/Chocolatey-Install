@@ -7,5 +7,6 @@ ECHO Configure chocolatey
 choco feature enable -n allowGlobalConfirmation
 
 choco install azure-cli
+choco install terraform 
 
 choco feature disable -n allowGlobalConfirmation
