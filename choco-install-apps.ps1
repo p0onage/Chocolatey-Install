@@ -10,5 +10,6 @@ choco install azure-cli
 choco install terraform 
 choco install docker-desktop
 choco install azure-functions-core-tools-3
+choco install scriptcs
 
 choco feature disable -n allowGlobalConfirmation
