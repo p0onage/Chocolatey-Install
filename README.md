@@ -33,5 +33,12 @@ Give `choco.exe /?` a shot (or `choco.exe -h`). For specific commands, add the c
 * .NET Framework 4.0
 * PowerShell 2.0+
 
+### Manual Software
+Outside of this chocolatey list here is some software not currently on chocolatey that requires a manual install 
+
+* RoslynPad - Install via windows store or [click here](https://roslynpad.net/)
+* Cmder - Great for SSH connections to remote linux machines  [click here](https://cmder.app/)
+* fork - [click here](https://git-fork.com/)
+
 ### More information
 Check out [Chocolatey's homepage](https://chocolatey.org/) or this [github repo](https://github.com/chocolatey/chocolatey).
