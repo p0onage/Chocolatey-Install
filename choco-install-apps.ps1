@@ -12,4 +12,7 @@ choco install docker-desktop
 choco install azure-functions-core-tools-3
 choco install scriptcs
 
+choco install nodejs
+choco install mysql
+
 choco feature disable -n allowGlobalConfirmation
